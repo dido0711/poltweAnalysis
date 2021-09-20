@@ -1,0 +1,18 @@
+.hand{
+    cursor: pointer;
+}
+.left_sidebar_a {
+    border-left-color: #495963 !important;
+}
+
+.dataTables_info {
+    font-size: 14px;
+    padding-top: 0px;
+    float: left;
+    display: table-cell;
+}
+.dataTables_paginate {
+    font-size: 12px;
+    display: table-cell;
+    float: right;
+}
